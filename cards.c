@@ -1,0 +1,56 @@
+#include "cards.h"
+
+void init_cards(){ 
+    cards S1 = {0, 1, 0}; 
+    cards S2 = {0, 2, 0};
+    cards S3 = {0, 3, 0};
+    cards S4 = {0, 4, 0};
+    cards S5 = {0, 5, 0};
+    cards S6 = {0, 6, 0};
+    cards S7 = {0, 7, 0};
+    cards S8 = {0, 8, 0};
+    cards S9 = {0, 9, 0};
+    cards S10 = {0, 10, 0};
+    cards S11 = {0, 11, 0};
+    cards S12 = {0, 12, 0};
+    cards S13 = {0, 13, 0};
+    cards H1 = {1, 1, 0};
+    cards H2 = {1, 2, 0};
+    cards H3 = {1, 3, 0};
+    cards H4 = {1, 4, 0};
+    cards H5 = {1, 5, 0};
+    cards H6 = {1, 6, 0};
+    cards H7 = {1, 7, 0};
+    cards H8 = {1, 8, 0};
+    cards H9 = {1, 9, 0};
+    cards H10 = {1, 10, 0};
+    cards H11 = {1, 11, 0};
+    cards H12 = {1, 12, 0};
+    cards H13 = {1, 13, 0};
+    cards D1 = {2, 1, 0};
+    cards D2 = {2, 2, 0};
+    cards D3 = {2, 3, 0};
+    cards D4 = {2, 4, 0};
+    cards D5 = {2, 5, 0};
+    cards D6 = {2, 6, 0};
+    cards D7 = {2, 7, 0};
+    cards D8 = {2, 8, 0};
+    cards D9 = {2, 9, 0};
+    cards D10 = {2, 10, 0};
+    cards D11 = {2, 11, 0};
+    cards D12 = {2, 12, 0};
+    cards D13 = {2, 13, 0};
+    cards C1 = {3, 1, 0};
+    cards C2 = {3, 2, 0};
+    cards C3 = {3, 3, 0};
+    cards C4 = {3, 4, 0};
+    cards C5 = {3, 5, 0};
+    cards C6 = {3, 6, 0};
+    cards C7 = {3, 7, 0};
+    cards C8 = {3, 8, 0};
+    cards C9 = {3, 9, 0};
+    cards C10 = {3, 10, 0};
+    cards C11 = {3, 11, 0};
+    cards C12 = {3, 12, 0};
+    cards C13 = {3, 13, 0};
+} 
