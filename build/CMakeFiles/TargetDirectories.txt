@@ -1,0 +1,3 @@
+/home/fufu/Desktop/ENGR151/P2-One-Card-Game/build/CMakeFiles/OneCard.dir
+/home/fufu/Desktop/ENGR151/P2-One-Card-Game/build/CMakeFiles/edit_cache.dir
+/home/fufu/Desktop/ENGR151/P2-One-Card-Game/build/CMakeFiles/rebuild_cache.dir
