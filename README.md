@@ -8,6 +8,10 @@
 
 ## Setup
 - The project is written in C and requires a C compiler(like GCC) to compile and run.
+- you can also directly run the game using below command after opening terminal in the folder
+```
+cd build && ./OneCard
+```
 
 ## Game Rules
 - Game Basics
